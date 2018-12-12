@@ -10,9 +10,13 @@ Deep Q-Learning is the result of combining Q-Learning with an Artificial Neural 
 The following packages are required before running.
 
 Linux and Max users:
-conda install pytorch==0.3.1 -c pytorch
-conda install -c conda-forge kivy
+
+`conda install pytorch==0.3.1 -c pytorch`
+
+`conda install -c conda-forge kivy`
 
 And Windows users, in the anaconda prompt:
-conda install -c peterjc123 pytorch-cpu
-conda install -c conda-forge kivy
+
+`conda install -c peterjc123 pytorch-cpu`
+
+`conda install -c conda-forge kivy`
